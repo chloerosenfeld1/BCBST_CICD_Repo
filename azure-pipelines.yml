@@ -25,6 +25,6 @@ steps:
     publishLocation: 'Container'
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    PathtoPublish: ''
     ArtifactName: 'assetFile'
     publishLocation: 'Container'
