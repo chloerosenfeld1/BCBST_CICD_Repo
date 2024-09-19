@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/tam_global/Dev/testmanager_",
+  "defaultProject": {
+    "id": "f911acee-ff76-0000-1e5f-0b474b844951",
+    "name": "BCBST_Testing",
+    "key": "BCT"
+  }
+}
